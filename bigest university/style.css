@@ -13,6 +13,8 @@ html{
     background-size: cover;
     position: relative;
 }
+body{
+    overflow-x:hidden;
 nav{
     display: flex;
     padding: 2% 6%;
